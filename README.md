@@ -2,7 +2,7 @@
 
 [Try it out now!](https://d3pmqgalyxt1nk.cloudfront.net/)
 
-![Screenshot][screenshot.PNG]
+![Screenshot][screenshot]
 
 This is a serverless application that runs in an AWS Lambda function with an AWS API Gateway instance sitting in front serving the page and input form.
 
